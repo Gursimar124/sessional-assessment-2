@@ -1,3 +1,2 @@
-# Hello
-
-The assignment is done was fun but my head hurts now...
+live link:
+https://gursimar124.github.io/sessional-assessment-2/
